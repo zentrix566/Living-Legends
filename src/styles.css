@@ -267,6 +267,10 @@ h1 {
   line-height: 1.45;
 }
 
+.facts .fact-wide {
+  grid-column: 1 / -1;
+}
+
 .deed {
   margin-bottom: 0;
   color: #33413b;

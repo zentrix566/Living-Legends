@@ -72,6 +72,7 @@ const filteredLegends = computed(() => {
         legend.name,
         legend.romanizedName,
         legend.country,
+        legend.gender,
         legend.event,
         legend.majorDeed,
       ]
@@ -181,6 +182,10 @@ const totalDeceased = computed(
             <dd>{{ legend.country }}</dd>
           </div>
           <div>
+            <dt>性别</dt>
+            <dd>{{ legend.gender }}</dd>
+          </div>
+          <div>
             <dt>出生</dt>
             <dd>{{ formatDate(legend.birthDate) }}</dd>
           </div>
@@ -188,7 +193,7 @@ const totalDeceased = computed(
             <dt>年龄</dt>
             <dd>{{ legend.ageLabel }}</dd>
           </div>
-          <div>
+          <div class="fact-wide">
             <dt>事件</dt>
             <dd>{{ legend.event }}</dd>
           </div>
