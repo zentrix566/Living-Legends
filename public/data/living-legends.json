@@ -1,0 +1,110 @@
+[
+  {
+    "id": "kim-hyon-hui",
+    "name": "金贤姬",
+    "romanizedName": "Kim Hyon-hui",
+    "country": "朝鲜；后居韩国",
+    "birthDate": "1962-01-27",
+    "deathDate": null,
+    "event": "大韩航空858号班机爆炸案",
+    "majorDeed": "曾是朝鲜特工，参与1987年大韩航空858号班机爆炸案，造成115人遇难。被韩国判处死刑后获赦，后在韩国生活并公开表达悔意。",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Kim_Hyon-hui",
+    "notes": "若未来确认去世，在此填写 deathDate，前端会自动显示红色状态。"
+  },
+  {
+    "id": "juliane-koepcke",
+    "name": "朱莉安妮·科普克",
+    "romanizedName": "Juliane Koepcke",
+    "country": "德国；秘鲁出生",
+    "birthDate": "1954-10-10",
+    "deathDate": null,
+    "event": "1971年LANSA 508号班机空难",
+    "majorDeed": "她是LANSA 508号班机空难唯一幸存者，飞机解体后仍绑在座椅上坠入亚马孙雨林。受伤后独自在雨林中行走11天获救，后来成为哺乳动物学家。",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Juliane_Koepcke",
+    "notes": "空难幸存者。"
+  },
+  {
+    "id": "nando-parrado",
+    "name": "南多·帕拉多",
+    "romanizedName": "Nando Parrado",
+    "country": "乌拉圭",
+    "birthDate": "1949-12-09",
+    "deathDate": null,
+    "event": "1972年安第斯空难",
+    "majorDeed": "他是乌拉圭空军571号班机安第斯空难的16名幸存者之一。被困雪山两个多月后，他与罗伯托·卡内萨徒步穿越安第斯山脉求援，帮助幸存者获救。",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Nando_Parrado",
+    "notes": "安第斯空难幸存者。"
+  },
+  {
+    "id": "roberto-canessa",
+    "name": "罗伯托·卡内萨",
+    "romanizedName": "Roberto Canessa",
+    "country": "乌拉圭",
+    "birthDate": "1953-01-17",
+    "deathDate": null,
+    "event": "1972年安第斯空难",
+    "majorDeed": "他是乌拉圭空军571号班机空难幸存者，当时还是医学生。后来与南多·帕拉多翻越安第斯山脉寻找援助，获救后成为小儿心脏病专家。",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Roberto_Canessa",
+    "notes": "安第斯空难幸存者。"
+  },
+  {
+    "id": "phan-thi-kim-phuc",
+    "name": "潘氏金福",
+    "romanizedName": "Phan Thi Kim Phuc",
+    "country": "越南；后入籍加拿大",
+    "birthDate": "1963-04-06",
+    "deathDate": null,
+    "event": "越南战争“凝固汽油弹女孩”照片",
+    "majorDeed": "她是1972年越南战争著名照片《战争的恐怖》中的女孩，童年时在凝固汽油弹袭击中严重烧伤。后来移居加拿大，长期从事战争儿童救助与和平倡议。",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Phan_Thi_Kim_Phuc",
+    "notes": "战争幸存者与和平活动人士。"
+  },
+  {
+    "id": "malala-yousafzai",
+    "name": "马拉拉·优素福扎伊",
+    "romanizedName": "Malala Yousafzai",
+    "country": "巴基斯坦",
+    "birthDate": "1997-07-12",
+    "deathDate": null,
+    "event": "2012年塔利班暗杀未遂",
+    "majorDeed": "她因倡导女童教育遭巴基斯坦塔利班枪击，头部中弹后幸存。康复后继续推动教育平权，并在2014年成为最年轻的诺贝尔和平奖得主。",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Malala_Yousafzai",
+    "notes": "暗杀未遂幸存者。"
+  },
+  {
+    "id": "ingrid-betancourt",
+    "name": "英格丽德·贝当古",
+    "romanizedName": "Ingrid Betancourt",
+    "country": "哥伦比亚；法国",
+    "birthDate": "1961-12-25",
+    "deathDate": null,
+    "event": "哥伦比亚FARC绑架事件",
+    "majorDeed": "她在竞选哥伦比亚总统期间被FARC武装绑架，并在丛林中被关押六年多。2008年她在“Jaque行动”中获救，成为哥伦比亚人质危机的代表性人物之一。",
+    "sourceUrl": "https://en.wikipedia.org/wiki/%C3%8Dngrid_Betancourt",
+    "notes": "绑架幸存者。"
+  },
+  {
+    "id": "terry-waite",
+    "name": "特里·韦特",
+    "romanizedName": "Terry Waite",
+    "country": "英国",
+    "birthDate": "1939-05-31",
+    "deathDate": null,
+    "event": "黎巴嫩人质危机",
+    "majorDeed": "他作为英国国教会特使赴黎巴嫩斡旋释放人质，却在1987年被绑架。被囚禁1763天后获释，后来投入人道主义与人质援助工作。",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Terry_Waite",
+    "notes": "人质事件幸存者。"
+  },
+  {
+    "id": "jessica-lynch",
+    "name": "杰西卡·林奇",
+    "romanizedName": "Jessica Lynch",
+    "country": "美国",
+    "birthDate": "1983-04-26",
+    "deathDate": null,
+    "event": "2003年伊拉克战争纳西里耶战斗",
+    "majorDeed": "她在伊拉克战争中随美军车队遭伏击，重伤后被俘。随后获救并回到美国，她的经历成为2003年伊拉克战争早期最受关注的事件之一。",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Jessica_Lynch",
+    "notes": "战俘与伏击幸存者。"
+  }
+]
